@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rocco-alexander
 - 👀 I’m interested in UI/UX, Web, and App development!
-- 🌱 I’m currently learning in-depth react.js and django
+- 🌱 I’m currently learning in-depth react.js, react native, Vue and django
 - 💞️ I’m looking to collaborate on projects that involve UI/UX and Web/App development
 - 📫 How to reach me roccoalexander@hotmail.com
 
